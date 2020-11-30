@@ -18,6 +18,10 @@ body{
  
 }
 
+image{
+    float: left;
+}
+
 li a{
     color: white;
 }
