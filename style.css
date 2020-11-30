@@ -3,6 +3,10 @@ body{
   background-color: purple;
 }
 
+.topnav{
+    width: 100%;
+    background-color: gray;
+}
 
 .topnav a {
   background-color: lightgrey;
@@ -13,7 +17,9 @@ body{
   font-size: 17px;
 }
 
+.repositories{
 
+}
 p{
     color: white;
     float: left;
