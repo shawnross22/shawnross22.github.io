@@ -1,9 +1,13 @@
 .topnav {
-  background-color: gray;
+  background-color: grey;
 }
 
 body{
   background-color: purple;
+}
+
+h1{
+  background-color: grey;
 }
 
 .topnav a {
@@ -16,6 +20,6 @@ body{
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: yellow;
   color: white;
 }
