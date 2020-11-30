@@ -5,11 +5,12 @@ body{
 
 h1{
   background-color: yellow;
+  width:50px;
 }
 
 .topnav a {
+  background-color: grey;
   float: left;
-  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
