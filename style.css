@@ -31,3 +31,9 @@ p{
 nav1{
     color: white;
 }
+nav2{
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
