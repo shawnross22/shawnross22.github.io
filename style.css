@@ -3,10 +3,13 @@ body{
   background-color: purple;
 }
 
+.topnav {
+    overflow: hidden;
+}
+
 
 .topnav a {
   background-color: lightgrey;
-  float: left;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -15,7 +18,7 @@ body{
 }
 
 .repositories a{
-
+    color: white;
 }
 p{
     color: white;
